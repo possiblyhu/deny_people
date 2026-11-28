@@ -15,14 +15,23 @@ github: https://github.com/Huseck
 
  
 Xjseck's Home
+
 Find the bug of the world！！！
+
 新疆师范大学-网络安全协会
+
 成员seck、tangKID.......
+
 CTF培训，爱好信息安全，喜欢二次元.
+
 web bin-re pwn android misc 打酱油！
+
 Github @Huseck
+
 微博 @Huseck
+
 Gmail xjseck@gmail.com
+
 新疆师范大学
 
 ---
